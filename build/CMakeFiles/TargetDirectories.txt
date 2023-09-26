@@ -1,0 +1,4 @@
+/home/ripires/alfaG4/build/CMakeFiles/rebuild_cache.dir
+/home/ripires/alfaG4/build/CMakeFiles/edit_cache.dir
+/home/ripires/alfaG4/build/CMakeFiles/SimulationTest.dir
+/home/ripires/alfaG4/build/CMakeFiles/mainSim.dir
